@@ -1,4 +1,5 @@
-require File.join(File.dirname(__FILE__), 'gilded_rose')
+#require File.join(File.dirname(__FILE__), '../gilded_rose')
+require './gilded_rose'
 require 'test/unit'
 
 class TestUntitled < Test::Unit::TestCase
